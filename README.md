@@ -1,5 +1,9 @@
 # Superstore Business Performance Analysis
 
+## Internship Information
+
+This project was completed as part of the Data Analytics Internship Program at SkillInfyTech.
+
 ## Project Overview
 
 This project analyzes Superstore sales data to identify business performance trends across regions, categories, products, and customers.
@@ -65,6 +69,7 @@ Identified best-selling products.
 * Dataset (.csv)
 * Charts and Visualizations
 * Business Insights Summary
+## Demo video : https://drive.google.com/file/d/1v32tu0LJV_h-YkiYT-wqntQv3W_Exgzk/view?usp=sharing
 
 ## Conclusion
 
